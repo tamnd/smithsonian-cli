@@ -1,0 +1,10 @@
+title       = "smithsonian"
+baseURL     = "https://smithsonian-cli.tamnd.com/"
+description = "A command line for smithsonian."
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/smithsonian-cli"
